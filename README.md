@@ -1,4 +1,4 @@
-# 🚖 Uber Power BI Dashboard
+# 🚖 Uber Power BI Analytics Dashboard
 
 ## 📊 Project Overview
 This Power BI dashboard provides a comprehensive analysis of **Uber ride data**, highlighting performance metrics such as **bookings, revenue, distance, customer retention, and location analytics**.  
