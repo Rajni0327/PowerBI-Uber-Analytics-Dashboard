@@ -55,12 +55,5 @@ It helps identify operational trends, customer behavior, and business insights a
 3. Hover over visuals for tooltips and detailed insights.  
 4. Refresh the dataset if connected to live data sources.
 
----
-
-## 📫 Contact
-For queries or feedback, contact the **dashboard creator** or **data analytics team**.  
-Contributions, improvements, and feature suggestions are welcome.
-
----
 
 **© Uber Power BI Dashboard | Data Visualization Project**
